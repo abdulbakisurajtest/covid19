@@ -33,7 +33,7 @@
 				<input type="text" name="middle_name" required="required">
 			</label><br/><br/>
 			<label>
-				Last Name / Surname (Leave empty if you don't have)
+				Last Name / Surname (Leave empty if you don't have)<br/>
 				<input type="text" name="last_name" required="required">
 			</label><br/><br/>
 			<label>
