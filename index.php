@@ -29,11 +29,11 @@
 				<input type="text" name="first_name" required="required">
 			</label><br/><br/>
 			<label>
-				Middle Name<br/>
-				<input type="text" name="middle_name" required="required">
+				Middle Name (Leave empty if you don't have)<br/>
+				<input type="text" name="middle_name">
 			</label><br/><br/>
 			<label>
-				Last Name / Surname (Leave empty if you don't have)<br/>
+				Last Name / Surname<br/>
 				<input type="text" name="last_name" required="required">
 			</label><br/><br/>
 			<label>
